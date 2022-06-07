@@ -1,0 +1,23 @@
+{
+  "name": "patika-react-odev-1",
+  "version": "1.0.0",
+  "description": "www.patika.dev react odevi",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saduncakmakli/patika-react-odev-1.git"
+  },
+  "author": "Muhammed Sadun Cakmakli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saduncakmakli/patika-react-odev-1/issues"
+  },
+  "homepage": "https://github.com/saduncakmakli/patika-react-odev-1#readme",
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
+}
